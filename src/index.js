@@ -1,6 +1,6 @@
-import { playSound } from './SoundEffects';
-import { setTheme, setRandomTheme } from './VSCode';
-import { hue, lightIds } from './HueLights';
+const { playSound } = require('./SoundEffects');
+const { setTheme, setRandomTheme } = require('./VSCode');
+const { hue, lightIds } = require('./HueLights');
 
 module.exports = {
     playSound,
