@@ -5,6 +5,7 @@
     "main": "./src/index.js",
     "dependencies": {
         "@bradgarropy/hue-sdk": "^1.4.1",
+        "axios": "^0.21.1",
         "dotenv": "^8.2.0",
         "play-sound": "^1.1.3"
     },
