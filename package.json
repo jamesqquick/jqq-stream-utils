@@ -1,0 +1,17 @@
+{
+    "name": "jqq-stream-utils",
+    "version": "0.0.0",
+    "description": "Stream bot utilities for James Q Quick live streams",
+    "main": "./src/index.js",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "play-sound": "^1.1.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "@jamesqquick",
+    "license": "MIT"
+}
