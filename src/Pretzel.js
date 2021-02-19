@@ -10,3 +10,7 @@ const getCurrentSong = async () => {
         return { err };
     }
 };
+
+module.exports = {
+    getCurrentSong,
+};
