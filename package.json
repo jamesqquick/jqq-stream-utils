@@ -1,6 +1,6 @@
 {
     "name": "jqq-stream-utils",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Stream bot utilities for James Q Quick live streams",
     "main": "./src/index.js",
     "dependencies": {
